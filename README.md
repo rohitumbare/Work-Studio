@@ -1,60 +1,61 @@
-# WØRK
+# Refokus Clone
 
-🚀 Exciting Project - "<b>WØRK</b>"! 🎉
+🚀 Exciting Project - "<b>Refokus Clone</b>"! 🎉
 
-I am thrilled to announce the completion of my latest project - <b>WØRK</b>! 🌟
+I am thrilled to announce the completion of my latest project - <b>Refokus Clone</b>! 🌟
 
 <b>🎯 Project Details : </b> <br>
 
-WØRK is a visually striking and interactive web experience designed to push the boundaries of grid layouts and modern web animations. Built with HTML, CSS, and JavaScript, this project integrates cutting-edge tools like GSAP and Locomotive Scroll to create a highly engaging and responsive website.
+The Refokus Clone is a modern, interactive, and visually immersive web application replicating the design philosophy of Refokus. Built with React, GSAP, and Tailwind CSS, this project showcases advanced animations, smooth scrolling, and responsive design principles. It’s a perfect blend of aesthetics and functionality tailored for a seamless user experience.
 <br>
 
 <b>💡 Key Features : </b><br>
-✅ Dynamic Navigation :  <br>
-An interactive nav bar that transforms on scroll. The toggle feature adds functionality, allowing users to open and close the menu seamlessly.<br>
+✅ Smooth Scrolling :  <br>
+Implemented using Locomotive Scroll for a buttery-smooth and enhanced scrolling experience.<br>
 
-✅ Advanced Grid Layout : <br>
-Next-level grid designs dynamically adjusted with JavaScript, offering a unique and visually captivating presentation.<br>
+✅ Interactive Animations : <br>
+Leveraged GSAP for fluid animations and engaging transitions throughout the application.<br>
 
-✅ Marquee Animation : <br>
-An infinite marquee with smooth scrolling adds vibrancy, drawing attention to important content.<br>
+✅ Responsive Design : <br>
+Crafted with Tailwind CSS, ensuring adaptability across all devices with a modern and clean aesthetic.<br>
 
-✅ Hover Interactivity : <br>
-Headers (h1) with hover effects dynamically update images, creating an engaging user interaction experience.<br>
+✅ React Framework : <br>
+Developed using React for dynamic rendering and efficient state management.<br>
 
-✅ Responsive Design :  <br>
-Optimized for all screen sizes, ensuring an intuitive and appealing experience across devices.<br>
+✅ Customizable Components :  <br>
+Built reusable and modular components, allowing for easy updates and scalability.<br>
 
-✅ Preloader Animation : <br>
-A sleek preloader animation enhances the user experience by making the initial load engaging and smooth.<br>
-
-✅ Scroll-Driven Animations :  <br>
-Animations are perfectly synchronized with user scroll actions using GSAP’s ScrollTrigger, adding depth and flow to the user journey.<br>
-
+✅ GitHub Deployment : <br>
+Deployed using GitHub Pages with an automated deployment workflow.<br>
 
 <b>🛠 Technologies Used : </b><br>
 
-  • GSAP : For creating fluid animations and timelines.<br>
-  • ScrollTrigger : For scroll-based animations.<br>
-  • Locomotive Scroll : For smooth scrolling and enhanced user navigation.<br>
-  • HTML/CSS/JavaScript : For structuring, styling, and interactivity.<br>
+  • React : For building dynamic and reusable components.<br>
+  • GSAP : For advanced animations and transitions.<br>
+  • Locomotive Scroll : For smooth scrolling effects.<br>
+  • Tailwind CSS : For utility-first styling and responsive design.<br>
+  • Vite : For a fast and optimized development and build process.<br>
 
    <b>🧐 Technical Details : </b>
    
-  🧩 HTML : Structured content and navigation for a dynamic user experience.<br> 
-  🎨 CSS : Developed a sleek, modern design with custom grid layouts and responsive features.<br>
-  ⚙️ JavaScript : Implemented advanced animations and hover interactions, leveraging GSAP and other modern libraries.
+  • React with JavaScript: Ensured type safety and robust code structure.<br>
+  • Vite: Simplified the development and build processes with lightning-fast setup.<br>
+  • ESLint: Used for maintaining consistent coding standards.<br>
+  • Tailwind CSS: For streamlined and efficient styling.<br>
+  • GitHub Pages: Easy and accessible deployment solution.<br>
+
 
 <b>🎓 Learning Experience : </b><br>
 
-  • Grid layout capabilities and their advanced use cases.
-  • Smooth scrolling techniques with Locomotive Scroll.
+  • Integrating advanced scrolling libraries like Locomotive Scroll with React.
+  • Creating modular components for scalable and reusable UI designs.
   • Interactive animations and event-based user interactions using GSAP.
-  • This project honed my ability to create unique, interactive, and responsive web designs.
+  • Implementing Tailwind CSS for utility-first styling, saving development time.
+  • Optimizing React apps for performance using tools like Vite.
 
  <b>📝 Conclusion : </b>
 
-WØRK exemplifies my skills in front-end development and showcases my dedication to pushing creative and technical boundaries in web design.
+This project represents a step forward in my journey as a front-end developer, demonstrating my ability to create visually appealing and technically advanced web applications.
 
 
 📢 I'd love to hear your thoughts!
